@@ -5,4 +5,4 @@ ThaiRIS1.0 anounce since 2016 to public and now 2021 we have ThaiRIS3.0 for Adva
 Installation guide https://www.thairis.net/install.php</br>
 </br>
 <font color=green>No More update on Version 1.5</font></br>
-<font size=+3>Move to ThaiRIS Free 1.8 which support PHP8</font>
+<font size=+3>Move to <a href=https://github.com/SoftwareThaiRIS/thairisfree18>ThaiRIS Free 1.8 </a> which support PHP8</font>
